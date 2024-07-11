@@ -1,0 +1,45 @@
+/* bmw.css */
+
+.about-bmw-container {
+    max-width: 800px;
+    margin: 55px auto;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-bmw-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.about-bmw-content {
+    margin-bottom: 20px;
+}
+
+.about-bmw-content p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.topics {
+    margin-top: 20px;
+}
+
+.topics h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.topics ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.topics li {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}

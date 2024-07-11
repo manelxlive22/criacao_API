@@ -1,0 +1,227 @@
+[
+  {
+    "nome": "Ford Mustang",
+    "modelo": "GT",
+    "ano": 2023,
+    "velocidadeMaxima": 250,
+    "hp": 450,
+    "descricao": "O icônico Ford Mustang GT é um carro esportivo com um poderoso motor V8 que oferece uma experiência de direção emocionante e desempenho impressionante.",
+    "imgUrl": "https://i.pinimg.com/736x/39/74/36/39743622eb3dbed6d6f6740cfa5a19c4.jpg"
+  },
+  {
+    "nome": "Chevrolet Corvette",
+    "modelo": "Stingray",
+    "ano": 2024,
+    "velocidadeMaxima": 290,
+    "hp": 495,
+    "descricao": "O Chevrolet Corvette Stingray é um superesportivo com design aerodinâmico e um motor V8 de alto desempenho que proporciona uma experiência de direção emocionante e envolvente.",
+    "imgUrl": "https://bocamafrapremium.com.br/wp-content/uploads/2024/01/f23b00209dae4dd0ae8e246860629a30_1700915930902.jpg"
+  },
+  {
+    "nome": "Honda Civic",
+    "modelo": "Type R",
+    "ano": 2023,
+    "velocidadeMaxima": 270,
+    "hp": 306,
+    "descricao": "O Honda Civic Type R é um hatchback esportivo com um motor turbo de alto desempenho, suspensão aprimorada e design agressivo, oferecendo uma dirigibilidade emocionante e responsiva.",
+    "imgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEialaeR3Sw4NC5O7J1ux0LrPyD5YuBX1XeIsdOSfTVYupHaV9HC2QrqpwuShn6PoRtwTv_BN91qajW3ZkKUZvRk9kDsKEWHTmH9JdoTywUdoAgXi7hmd6_jJ_x5giT4LKRvzckoS-TPW0WHmGV8MKiEGWOKX12kFrqN0wbtQp-jNsAwGE0k88R92KB58g/s2560/Honda-Civic-Type-R-2023%20%283%29.jpg"
+  },
+  {
+    "nome": "Porsche 911",
+    "modelo": "Carrera S",
+    "ano": 2024,
+    "velocidadeMaxima": 308,
+    "hp": 443,
+    "descricao": "O Porsche 911 Carrera S é um icônico carro esportivo com design clássico, motor boxer de seis cilindros e desempenho excepcional, combinando elegância, potência e agilidade.",
+    "imgUrl": "https://garagem360.com.br/wp-content/uploads/2024/02/porsche-911-carrera-s-2024-1.jpeg"
+  },
+  {
+    "nome": "Toyota Supra",
+    "modelo": "GR",
+    "ano": 2023,
+    "velocidadeMaxima": 250,
+    "hp": 382,
+    "descricao": "O Toyota Supra GR é um carro esportivo com design aerodinâmico, motor turbo de seis cilindros e suspensão aprimorada, oferecendo uma experiência de direção emocionante e envolvente.",
+    "imgUrl": "https://cdn.motor1.com/images/mgl/YAA7Mv/s1/2023-toyota-supra.jpg"
+  },
+  {
+    "nome": "Lamborghini Aventador",
+    "modelo": "SVJ",
+    "ano": 2024,
+    "velocidadeMaxima": 350,
+    "hp": 770,
+    "descricao": "O Lamborghini Aventador SVJ é um superesportivo com design agressivo, motor V12 de alto desempenho e tecnologia avançada, proporcionando uma experiência de direção extrema e emocionante.",
+    "imgUrl": "https://www.automaistv.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=.jpg&quality=91&imagick=/wp-content/uploads/2018/08/Lamborghini-Aventador-SVJ-1-1200x675.jpg"
+  },
+  {
+    "nome": "Ferrari 488 GTB",
+    "modelo": "Pista",
+    "ano": 2023,
+    "velocidadeMaxima": 340,
+    "hp": 710,
+    "descricao": "O Ferrari 488 GTB Pista é um superesportivo com design aerodinâmico, motor V8 turbo de alto desempenho e suspensão aprimorada, oferecendo uma dirigibilidade precisa e uma experiência de condução envolvente.",
+    "imgUrl": "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/uploads/2018/02/21153228/Ferrari-488_Pista-2019-1600-01.jpg"
+  },
+  {
+    "nome": "Audi R8",
+    "modelo": "V10 Plus",
+    "ano": 2024,
+    "velocidadeMaxima": 330,
+    "hp": 610,
+    "descricao": "O Audi R8 V10 Plus é um superesportivo com design elegante, motor V10 aspirado de alto desempenho e tecnologia avançada, combinando potência, precisão e refinamento em uma experiência de condução excepcional.",
+    "imgUrl": "https://s3.amazonaws.com/www.revistacarro.com.br/static/images/uploads/2015-audir8v10plus-32_txt1_620x467.jpg"
+  },
+  {
+    "nome": "McLaren 720S",
+    "modelo": "Spider",
+    "ano": 2023,
+    "velocidadeMaxima": 341,
+    "hp": 710,
+    "descricao": "O McLaren 720S Spider é um superesportivo com design aerodinâmico, motor V8 turbo de alto desempenho e chassi de fibra de carbono, oferecendo uma experiência de condução emocionante e envolvente.",
+    "imgUrl": "https://cdn.motor1.com/images/mgl/2kNvp/s3/2019-mclaren-720s-spider.jpg"
+  },
+  {
+    "nome": "Nissan GT-R",
+    "modelo": "NISMO",
+    "ano": 2024,
+    "velocidadeMaxima": 315,
+    "hp": 600,
+    "descricao": "O Nissan GT-R NISMO é um superesportivo com design agressivo, motor V6 biturbo de alto desempenho e tecnologia avançada de tração integral, proporcionando uma dirigibilidade excepcional e uma experiência de condução emocionante.",
+    "imgUrl": "https://cdn.motor1.com/images/mgl/8LAjo/s1/2020-nissan-gt-r-nismo.jpg"
+  },
+  {
+    "nome": "BMW M5",
+    "modelo": "Competition",
+    "ano": 2023,
+    "velocidadeMaxima": 305,
+    "hp": 617,
+    "descricao": "O BMW M5 Competition é um sedã de alto desempenho com motor V8 biturbo, suspensão aprimorada e tecnologia avançada, oferecendo uma combinação de potência, agilidade e conforto em uma experiência de condução envolvente.",
+    "imgUrl": "https://cdn.motor1.com/images/mgl/zWr47/s1/2021-bmw-m5-m5-competition.webp"
+  },
+  {
+    "nome": "Mercedes-AMG GT",
+    "modelo": "R",
+    "ano": 2024,
+    "velocidadeMaxima": 318,
+    "hp": 577,
+    "descricao": "O Mercedes-AMG GT R é um superesportivo com design aerodinâmico, motor V8 biturbo de alto desempenho e suspensão aprimorada, proporcionando uma experiência de condução emocionante e uma dirigibilidade excepcional.",
+    "imgUrl": "https://bocamafrapremium.com.br/wp-content/uploads/2023/11/ea577ec0326c46f1a361115d40563b06_1672691073208.jpg"
+  },
+  {
+    "nome": "Acura NSX",
+    "modelo": "Type S",
+    "ano": 2023,
+    "velocidadeMaxima": 307,
+    "hp": 600,
+    "descricao": "O Acura NSX Type S é um superesportivo híbrido com design elegante, motor V6 biturbo e sistema de tração integral, oferecendo uma combinação de desempenho, eficiência e tecnologia avançada em uma experiência de condução envolvente.",
+    "imgUrl": "https://www.motortrend.com/uploads/2022/07/2022-Acura-NSX-Type-S-in-motion-7.jpg"
+  },
+  {
+    "nome": "Dodge Challenger",
+    "modelo": "SRT Hellcat",
+    "ano": 2024,
+    "velocidadeMaxima": 325,
+    "hp": 807,
+    "descricao": "O Dodge Challenger SRT Hellcat é um muscle car com design icônico, motor V8 superalimentado de alto desempenho e suspensão aprimorada, proporcionando uma experiência de condução emocionante e uma potência bruta impressionante.",
+    "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/2019-dodge-challenger-srt-hellcat-redeye-comparison-104-1581425446.jpg?crop=0.679xw:0.765xh;0.0879xw,0.171xh&resize=768:*"
+  },
+  {
+    "nome": "Jaguar F-TYPE",
+    "modelo": "R",
+    "ano": 2023,
+    "velocidadeMaxima": 300,
+    "hp": 575,
+    "descricao": "O Jaguar F-TYPE R é um carro esportivo com design elegante, motor V8 superalimentado de alto desempenho e suspensão aprimorada, oferecendo uma combinação de estilo, potência e agilidade em uma experiência de condução envolvente.",
+    "imgUrl": "https://s2-autoesporte.glbimg.com/ejuiajZ_XsWUl12kAS6ZlMbjYFg=/0x0:620x350/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/N/B/qluLgfRWWtFWw4cDMgYg/2016-01-08-jag-ftype-16my-awd-r-storm-grey-image-191114-03.jpg"
+  },
+  {
+    "nome": "Lexus LC",
+    "modelo": "500",
+    "ano": 2024,
+    "velocidadeMaxima": 290,
+    "hp": 471,
+    "descricao": "O Lexus LC 500 é um carro esportivo de luxo com design elegante, motor V8 de alto desempenho e tecnologia avançada, proporcionando uma experiência de condução refinada e emocionante.",
+    "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-lexus-lc-004-6463a5b41d024.jpg?crop=0.710xw:0.628xh;0.158xw,0.259xh&resize=1200:*"
+  },
+  {
+    "nome": "Maserati Ghibli",
+    "modelo": "Trofeo",
+    "ano": 2023,
+    "velocidadeMaxima": 302,
+    "hp": 580,
+    "descricao": "O Maserati Ghibli Trofeo é um sedã de alto desempenho com design elegante, motor V8 biturbo e suspensão aprimorada, oferecendo uma combinação de estilo, potência e dirigibilidade em uma experiência de condução envolvente.",
+    "imgUrl": "https://www.cnet.com/a/img/resize/d792ba1221fd2a1a4496484421c83aba6d4af826/hub/2021/05/18/15e5d293-dfdb-465c-8137-f9e8d3517591/2021-maserati-ghibli-trofeo-014.jpg?auto=webp&width=1200"
+  },
+  {
+    "nome": "Aston Martin DB11",
+    "modelo": "V12",
+    "ano": 2024,
+    "velocidadeMaxima": 322,
+    "hp": 630,
+    "descricao": "O Aston Martin DB11 V12 é um superesportivo de luxo com design elegante, motor V12 de alto desempenho e tecnologia avançada, proporcionando uma experiência de condução emocionante e refinada.",
+    "imgUrl": "https://images.pistonheads.com/nimg/44059/dc11d.jpg"
+  },
+  {
+    "nome": "Bentley Continental GT",
+    "modelo": "Speed",
+    "ano": 2023,
+    "velocidadeMaxima": 335,
+    "hp": 650,
+    "descricao": "O Bentley Continental GT Speed é um carro de luxo de alto desempenho com design imponente, motor W12 biturbo e suspensão aprimorada, oferecendo uma combinação de potência, conforto e refinamento em uma experiência de condução excepcional.",
+    "imgUrl": "https://cdn.motor1.com/images/mgl/Oo3OzL/s1/one-of-one-bentley-continental-gt-speed.jpg"
+  },
+  {
+    "nome": "Rolls-Royce Wraith",
+    "modelo": "Black Badge",
+    "ano": 2024,
+    "velocidadeMaxima": 250,
+    "hp": 624,
+    "descricao": "O Rolls-Royce Wraith Black Badge é um carro de luxo com design elegante, motor V12 de alto desempenho e acabamento premium, proporcionando uma experiência de condução refinada e exclusiva.",
+    "imgUrl": "https://i.ytimg.com/vi/aYV6LOKIsYo/maxresdefault.jpg"
+  },
+  {
+    "nome": "Bugatti Chiron",
+    "modelo": "Super Sport 300+",
+    "ano": 2023,
+    "velocidadeMaxima": 490,
+    "hp": 1600,
+    "descricao": "O Bugatti Chiron Super Sport 300+ é um superesportivo de hiperdesempenho com design aerodinâmico, motor W16 quadriturbo de potência excepcional e tecnologia avançada, oferecendo uma experiência de condução extrema e emocionante.",
+    "imgUrl": "https://cdn.motor1.com/images/mgl/QE3q0/s1/2021-bugatti-chiron-super-sport-300.jpg"
+  },
+  {
+    "nome": "Koenigsegg Jesko",
+    "modelo": "Absolut",
+    "ano": 2024,
+    "velocidadeMaxima": 531,
+    "hp": 1600,
+    "descricao": "O Koenigsegg Jesko Absolut é um superesportivo de hiperdesempenho com design aerodinâmico, motor V8 biturbo de potência incrível e tecnologia avançada, proporcionando uma experiência de condução extrema e recordista de velocidade.",
+    "imgUrl": "https://carrosbemmontados.com.br/wp-content/uploads/2023/07/Koenigsegg-Jesko-Absolut.jpg"
+  },
+  {
+    "nome": "Pagani Huayra",
+    "modelo": "BC",
+    "ano": 2023,
+    "velocidadeMaxima": 370,
+    "hp": 800,
+    "descricao": "O Pagani Huayra BC é um superesportivo de luxo com design exclusivo, motor V12 biturbo de alto desempenho e tecnologia avançada, oferecendo uma experiência de condução emocionante e uma estética impressionante.",
+    "imgUrl": "https://www.motortrend.com/uploads/2021/09/Pagani-Huayra-BC-Roadster-02-1.jpg"
+  },
+  {
+    "nome": "Hennessey Venom F5",
+    "modelo": "Roadster",
+    "ano": 2024,
+    "velocidadeMaxima": 500,
+    "hp": 1817,
+    "descricao": "O Hennessey Venom F5 Roadster é um superesportivo de hiperdesempenho com design aerodinâmico, motor V8 biturbo de potência incrível e tecnologia avançada, proporcionando uma experiência de condução extrema e recordista de velocidade.",
+    "imgUrl": "https://cdn.motor1.com/images/mgl/ojjzOE/s3/hennessey-venom-f5-roadster-debut-front.jpg"
+  },
+  {
+    "nome": "Rimac Nevera",
+    "modelo": "Edição Especial",
+    "ano": 2023,
+    "velocidadeMaxima": 412,
+    "hp": 1914,
+    "descricao": "O Rimac Nevera Edição Especial é um superesportivo elétrico de hiperdesempenho com design futurista, sistema de propulsão elétrica de potência excepcional e tecnologia avançada, oferecendo uma experiência de condução emocionante e sustentável.",
+    "imgUrl": "https://cdn.motor1.com/images/mgl/W8o72O/s3/rimac-nevera-sets-23-records-at-the-automotive-testing-papenburg-in-germany.jpg"
+  }
+]

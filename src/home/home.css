@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-image: url(https://img.freepik.com/fotos-premium/foto-de-estudio-de-carro-preto-ilustracao-3d_68747-326.jpg);
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    background-color: rgba(0%, 0%, 0%, 40%);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+    color: white;
+}
+
+.container {
+    padding: 20px;
+    background-color: black;
+    border: 1px solid gray;
+    border-radius: 8px;
+    text-align: center;
+    margin: 55px;
+}
+
+h2 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.brand-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.brand-button:hover {
+    background-color: #0056b3;
+}
+
+::-webkit-scrollbar {
+    width: 2px; 
+}
+
+::-webkit-scrollbar-track {
+    background: black; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: gray; 
+    border-radius: 10px;
+}
+
